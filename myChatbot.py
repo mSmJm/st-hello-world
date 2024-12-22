@@ -1,4 +1,5 @@
 import streamlit as st
+pip install pymupdf
 import fitz  # PyMuPDF
 from groq import Groq
 import google.generativeai as genai
